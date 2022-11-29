@@ -1,7 +1,7 @@
 # Learning Swift with Allan and Caleb
 ## Helpful shell commands for Replit
 ### - $ swiftc helloworld.swift
-#### -- Creates executable file "helloworld"
+#### > Creates executable file "helloworld"
 ### - $ ./helloworld
 #### -- Executes file
 ## File Table of Contents
@@ -19,4 +19,5 @@
 #### - Function With Parameters
 #### - Function With A Return
 #### - Nested Functions
-
+## Resources
+### 
