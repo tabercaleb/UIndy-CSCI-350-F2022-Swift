@@ -1,4 +1,10 @@
 # UIndy-CSCI-350-F2022-Swift
+## Helpful shell commands for Replit
+### $ swiftc helloworld.swift
+#### Creates executable file "helloworld"
+### $ ./helloworld
+#### Executes file
+## File Table of Contents
 ### Activity 1 - Basic Syntax and Classes
 #### Hello World!
 #### Variables
@@ -13,8 +19,4 @@
 #### Function With Parameters
 #### Function With A Return
 #### Nested Functions
-## Shell commands
-### $ swiftc helloworld.swift
-#### Creates executable file "helloworld"
-### $ ./helloworld
-#### Executes file
+
