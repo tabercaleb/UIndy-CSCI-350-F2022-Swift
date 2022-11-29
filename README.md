@@ -19,6 +19,8 @@
 #### - Function With Parameters
 #### - Function With A Return
 #### - Nested Functions
+### Starter Code
+#### to be updated
 ## Resources
 ### We used [Programiz](https://www.programiz.com/swift-programming) to help with creating examples. It is a great resource.
 ### We recommend using [Replit](https://replit.com/new/swift) for homework and practice.
