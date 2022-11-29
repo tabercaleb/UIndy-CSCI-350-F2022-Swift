@@ -1,7 +1,7 @@
 # Learning Swift with Allan and Caleb
 ## Helpful shell commands for Replit
 ### - $ swiftc helloworld.swift
-#### > Creates executable file "helloworld"
+#### -- Creates executable file "helloworld"
 ### - $ ./helloworld
 #### -- Executes file
 ## File Table of Contents
@@ -20,4 +20,5 @@
 #### - Function With A Return
 #### - Nested Functions
 ## Resources
-### 
+### We used [Programiz](https://www.programiz.com/swift-programming) to help with creating examples. It is a great resource.
+### We recommend using [Replit](https://replit.com/new/swift) for homework and practice.
