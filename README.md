@@ -1,4 +1,4 @@
-# UIndy-CSCI-350-F2022-Swift
+# Learning Swift with Allan and Caleb
 ## Helpful shell commands for Replit
 ### - $ swiftc helloworld.swift
 #### -- Creates executable file "helloworld"
