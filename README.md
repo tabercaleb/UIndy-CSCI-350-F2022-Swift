@@ -19,6 +19,11 @@
 #### - Function With Parameters
 #### - Function With A Return
 #### - Nested Functions
+### Activity 4 - Initializing A Class, Using A Class, and Printing A Class
+#### - public class vector
+#### - init(x: Int, y: Int, z: Int)
+#### - public func sum(deltaX: Int, deltaY: Int,  deltaZ: Int)
+#### - public func printValues()
 ### Starter Code
 #### - init(x: Float, y: Float, z: Float)
 #### - public func sum(deltaX: Float, deltaY: Float,  deltaZ: Float)
